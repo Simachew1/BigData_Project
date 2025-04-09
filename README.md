@@ -1,7 +1,7 @@
-#Big Data mini project 
-# Group member lists (Simachew T, Amha A, Tarikua G, Negesse G, Muluken C)
-#Title of the project 
-# Customer Segmentation Analysis Using PySpark
+## Big Data mini project 
+## Group member lists (Simachew T, Amha A, Tarikua G, Negesse G, Muluken C)
+# Title of the project 
+## Customer Segmentation Analysis Using PySpark
 
 ## Project Overview
 The Business-to-Consumer online retail sector is inherently competitive, with companies heavily investing in acquiring new customers while prioritizing customer loyalty and profitability to grow market share.
