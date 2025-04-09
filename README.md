@@ -1,3 +1,6 @@
+#Big Data mini project 
+# Group member lists (Simachew T, Amha A, Tarikua G, Negesse G, Muluken C)
+#Title of the project 
 # Customer Segmentation Analysis Using PySpark
 
 ## Project Overview
